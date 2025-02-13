@@ -1,0 +1,14 @@
+
+/* 置顶插件 */
+.to-top {
+    display: flex;             /* 设置为 Flexbox */
+    justify-content: center;   /* 水平居中 */
+    align-items: center;       /* 垂直居中 */
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: rgb(66, 185, 131);
+}
+
